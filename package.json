@@ -1,0 +1,16 @@
+{
+  "name": "helloapi-codealong",
+  "version": "1.0.0",
+  "description": "Hello World API code along project",
+  "main": "server.js",
+  "scripts": {
+    "test": "\t"
+  },
+  "author": "Zuzana",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.8"
+  }
+}
